@@ -14,4 +14,10 @@ apresentada:
 |- qtdPrevistoMes : double|
 |- precoMaxComprado : double|
 
+## Como rodar o projeto
+
+Para rodar o projeto abra o arquivo no Eclipse (ou outra IDE), 
+configure para o servidor ser o Apache Tomcat e, ao ligar o servidor,
+vá para `localhost:8080/produto/Pages/menu.html`
+
 ### Desenvolvido por Beatriz Bastos Borges e Miguel Luizatto Alves
