@@ -20,4 +20,6 @@ Para rodar o projeto abra o arquivo no Eclipse (ou outra IDE),
 configure para o servidor ser o Apache Tomcat e, ao ligar o servidor,
 vá para `localhost:8080/produto/Pages/menu.html`
 
+Clique <a href="https://www.youtube.com/watch?v=MzCaH3drbjs" target="_blank">aqui</a> para ver um vídeo da aplicação funcionando
+
 ### Desenvolvido por Beatriz Bastos Borges e Miguel Luizatto Alves
